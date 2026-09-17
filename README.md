@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YashAgarwal-31/Prodigy_DS_01/main/assets/prodigy-infotech-logo.png" alt="Prodigy InfoTech" width="120">
+</p>
+
 <h1 align="center">Prodigy InfoTech Data Science Internship</h1>
 
 <p align="center">
@@ -8,12 +12,12 @@
   <img src="https://img.shields.io/badge/Organization-Prodigy%20InfoTech-0A66C2?style=for-the-badge" alt="Prodigy InfoTech">
   <img src="https://img.shields.io/badge/Role-Data%20Science%20Intern-2E8B57?style=for-the-badge" alt="Data Science Intern">
   <img src="https://img.shields.io/badge/Task-4%20of%204-6F42C1?style=for-the-badge" alt="Task 4 of 4">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Completed">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Completed">\n  <img src="https://img.shields.io/badge/Period-July%202025-E67E22?style=for-the-badge" alt="July 2025">
 </p>
 
 ## Internship Overview
 
-This repository is one component of my **Data Science Internship at Prodigy InfoTech**. The internship consisted of four connected assignments covering data visualization, exploratory data analysis, machine learning, and sentiment analysis.
+This repository is one component of my **one-month Data Science Internship at Prodigy InfoTech**, completed from **1 July 2025 to 31 July 2025**. The internship consisted of four connected assignments covering data visualization, exploratory data analysis, machine learning, and sentiment analysis.
 
 ## Internship Task Navigator
 
